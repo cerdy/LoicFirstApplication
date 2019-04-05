@@ -20,7 +20,7 @@ comprendre les bases du développement mobile vue la place quelle occupe aujourd
   
   -Notifications Push ( Firebase ) 
   
-  -Autres fonctionnalités (libre, plus il y en a mieux c’est.)
+  -Autres fonctionnalités (libre, plus il y en a mieux c’est)
 
 
 #presentation de mon aplication
