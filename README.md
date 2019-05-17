@@ -33,6 +33,7 @@ vous obtiendriez des détails sur lui (photo,nom,etc) et un lien vers sont "GITH
 #presentation-api
 
 API utilisée est : rly-chrono.fr/api/loic
+
 c'est elle, grace à retrofit qui ira chercher les profils de ces utisaitateurs.
 
 #partie amelioration
